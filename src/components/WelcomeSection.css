@@ -1,0 +1,57 @@
+.welcome-section {
+    margin-bottom: 20px;
+  }
+  
+  .welcome-section h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .fd-portfolio {
+    margin-bottom: 20px;
+  }
+  
+  .fd-portfolio h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .pie-chart {
+    width: 200px;
+    height: 200px;
+    
+  }
+  
+  .legend {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .legend li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .color-box {
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+  }
+  
+  .bajaj-finserv {
+    background-color: blue;
+  }
+  
+  .shriram-finance {
+    background-color: green;
+  }
+  
+  .mahindra-finance {
+    background-color: orange;
+  }
+  
+  .utkarsh-bank {
+    background-color: purple;
+  }

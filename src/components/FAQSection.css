@@ -1,0 +1,22 @@
+.faq-section {
+    padding: 40px;
+  }
+  
+  .faq-heading {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 20px;
+  }
+  
+  .faq-cards-container {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 20px;
+  }
+  
+  .faq-card {
+    flex: 0 0 300px;
+    scroll-snap-align: start;
+  }

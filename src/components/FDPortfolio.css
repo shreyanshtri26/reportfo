@@ -1,0 +1,34 @@
+.fd-portfolio {
+    padding: 40px;
+  }
+  
+  .fd-portfolio-heading {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 20px;
+  }
+  
+  .fd-portfolio-chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .fd-portfolio-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .legend-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .legend-color {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
