@@ -3,19 +3,11 @@
 
 ## Table of Contents
 
-- [Features](#features)
+- [Live Link](#Live-Link)
 - [Installation](#installation)
-- [Available Scripts](#available-scripts)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Features
-
-- [List key features of your application]
-- [Example: Interactive data visualization]
-- [Example: Real-time updates]
-- [Example: User authentication]
+## Live Link
+   [Link ](https://reportfo-shreyansh-tripathis-projects.vercel.app/)
 
 ## Installation
 
